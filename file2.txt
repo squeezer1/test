@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-dsgdfgdf df
- dfg df
-g df
- gdf
-g df
- hfg
-t
-y j
-6uj 
-
-=======
 ssdfsd
 sd 
 sf
@@ -22,4 +10,3 @@ f
 sd f
 sdf
  s
->>>>>>> devel
