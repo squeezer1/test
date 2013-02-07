@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dsgdfgdf df
  dfg df
 g df
@@ -8,3 +9,17 @@ t
 y j
 6uj 
 
+=======
+ssdfsd
+sd 
+sf
+sd f
+sd
+ sd
+f sd
+f s
+f 
+sd f
+sdf
+ s
+>>>>>>> devel
